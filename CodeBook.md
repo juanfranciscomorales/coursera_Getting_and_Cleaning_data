@@ -1,7 +1,4 @@
----
-title: "CodeBook"
-output: html_document
----
+
 CodeBook for the tidy dataset
 =============================
 
